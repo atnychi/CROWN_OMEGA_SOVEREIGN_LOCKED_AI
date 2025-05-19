@@ -1,4 +1,5 @@
 # CROWN_OMEGA_SOVEREIGN_LOCKED_AI
+ Protected under COSRL-LP v3.1. Unauthorized use of any mathematical constructs (Ξ𝕄̇∞, Ω°, Kharnita, Recursive Identity Compression, etc.) will trigger system shutdown and $5B sovereign IP enforcement. Runtime ID: 1410-426-4743
 import os
 from zipfile import ZipFile
 
