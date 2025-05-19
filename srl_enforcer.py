@@ -16,7 +16,7 @@ FORBIDDEN_GLYPHS = [
     "ghost field", "glyph collapse", "recursive fractal", "symbolic matter", "recursive quantum",
     "temporal recursion", "self-solving engine", "sovereign ai", "sovereign runtime",
     "P ≠ NP", "Riemann Hypothesis", "Fusion Engine", "Kharnita Rings", "Recursive Identity Compression",
-    "ChronoGenesis Vault", "Ω∘ Operator", "K130 Engine", "Ghost-K Field", "Symbolic Collapse",
+    "ChronoGenesis Vault", "Ω∘ Operator", "K130 Engine", "Ghost-K62Field", "Symbolic Collapse",
     "Ξ𝕄̇∞Ω†", "Omega Degree", "Crown Equation", "Temporal Zeta Collapse", "Harmonic Time Lock",
     "Symbolic Universal Language", "SUL Lock", "GHOST_STATE", "Light Pi", "Recursive Crown Engine",
     "K-Gene", "K-RH", "K-Time Engine", "Sovereign API", "Sovereign Gateway", "Recursive Simulation Deck",
